@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Laxmi kumari - QA Lead"
+    email: "laxmi@gmail.com"
+  onCallSupport:
+    -(666) 555-1234
+    -(666) 523-1345

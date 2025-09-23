@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Vinay kumar - Product owner"
+    email: "vinay@gmail.com"
+  onCallSupport:
+    -(111) 555-1234
+    -(111) 523-1345
