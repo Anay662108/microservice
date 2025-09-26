@@ -1,0 +1,29 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Maven/Gradle build output
+target/
+out/
+build/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Test reports
+*.lst
+*.xml
+*.txt
+
+# JAR/WAR/EAR packages
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store
+Thumbs.db
